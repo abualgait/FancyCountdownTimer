@@ -1,5 +1,4 @@
-![FancyCountDownTimer](https://github.com/abualgait/FancyCountdownTimer/assets/38107393/9b7f2e9f-5e8c-417f-949d-fa9f26f623ae)
-
+![FancyCountDownTimer](https://github.com/abualgait/FancyCountdownTimer/assets/38107393/989c1239-7da8-4c2a-941a-d1b59d41f643)
 
 # Fancy Countdown Timer with Jetpack Compose ⏳✨
 
